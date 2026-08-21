@@ -23,7 +23,7 @@ Project Lighthouse bridges cloud-scale deep learning with immediate edge accessi
 The ecosystem splits across three main production environments to realize this vision:
 
 ```text
-  [ Thousands of Open-Source Images ] 
+           [ 10K Images ] 
                  │
                  ▼
      [ AWS S3 / Data Pipeline ]
