@@ -1,7 +1,7 @@
 # Project_Lighthouse
 
 ### 🌟 The Vision
-Project Lighthouse is not just an application; **it is the vision** of a world where visual impairment no longer limits spatial independence. Our goal is to engineer a seamless, intelligent "artificial eye" that restores confidence and freedom to blind individuals. By transforming raw real-time pixels into descriptive, natural conversations, Project Lighthouse allows users to truly "see" their surroundings through audio, helping them navigate, understand, and interact safely with the physical world.
+Project Lighthouse is not just an application; **it is the vision** of a world where visual impairment no longer limits spatial independence. Our goal is to engineer a seamless, intelligent "artificial eye" that restores confidence and freedom to blind individuals. By transforming raw real-time pixels into descriptive, natural conversations, Project Lighthouse allows users to truly "see" their surroundings through audio, helping them navigate, understand, and interact safely with physical world.
 
 ---
 
